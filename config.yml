@@ -1,0 +1,6 @@
+appname: iot-lock-server
+
+server:
+    port: 8080
+api:
+    prefix: /api

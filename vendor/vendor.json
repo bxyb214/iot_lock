@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "NrY6tAvq3l68HNfSwsJ98O5KXCs=",
+			"path": "github.com/jinzhu/configor",
+			"revision": "ff2ac2b1ce3d687c3a1da0d2847fbce42524a7f3",
+			"revisionTime": "2017-05-22T02:16:20Z"
+		},
+		{
+			"checksumSHA1": "El/gvQkzuf6Ksc+ySdM/rV0ZyJk=",
+			"path": "github.com/kataras/iris",
+			"revision": "b46f3e791b1773fc095fbc405f00f7ba8b57d391",
+			"revisionTime": "2017-07-23T09:10:51Z"
+		}
+	],
+	"rootPath": "github.com/bxyb214/iot-lock-server"
+}
