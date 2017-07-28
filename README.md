@@ -16,9 +16,13 @@ govendor test +local
 
 ## TODO
 
-1. mongo
+1. mongo  done
+ 
+2. 认证
 
-2. 授权，商家/管理员/用户
+3. 权限，角色商家/管理员/用户
+
+4. 长连接. 
 
 
 
