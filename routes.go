@@ -1,4 +1,4 @@
-package main
+package server
 
 import (
     "github.com/kataras/iris"
@@ -12,5 +12,7 @@ func Route(app *iris.Application) {
 	router := app.Party(apiPrefix)
 	{
 		router.Get("/login", apis.Login)
+		router.Post("/carports", apis.CreateCarport)
+		router.Get("/carports", apis.GetAllCarports)
 	}
 }

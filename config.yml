@@ -4,3 +4,5 @@ server:
     port: 8080
 api:
     prefix: /api
+db:
+    url: mongodb://iot:iot@127.0.0.1/iot?maxPoolSize=50
